@@ -1,14 +1,12 @@
 ## Hi there 👋
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Kenny's Resume</title>
-        <link rel="stylesheet" href="../style/style.css">
     </head>
-    <body style="font-family: Arial, Helvetica, sans-serif;">
+    <body>
         <header id="main-header">
             <h1>Kenny's Resume</h1>
             <div id="date-display"></div>
@@ -21,13 +19,11 @@
                      
         </header>
         <main>
-         <!-- OBJECTIVE STATEMENT - KL 040726 -->
-          <section id="objective-statement">         
+         <section id="objective-statement">          
             <h3 class="sectionHeader">OBJECTIVE</h3>
             <p>Driven <strong>IT Support Specialist</strong> and current WGU student with over 30 years of technical maintenance and logistics experience. I am leveraging expertise in Windows Server 2025, Active Directory, and network simulation to transition into advanced infrastructure management roles. My goal is to apply my veteran-led leadership and comprehensive IT certifications to enhance technical operations within a public sector environment.</p>
          </section>
          <hr>
-         <!-- EXPERIENCE -->
          <section id="experience">
             <h3 class="sectionHeader">WORK EXPERIENCE</h3>
             <article>
@@ -50,10 +46,9 @@
             </article>
          </section>            
             
-               
+                
             
        <hr>
-         <!-- EDUCATION -->
          <section id="education">
             <h3 class="sectionHeader">EDUCATION</h3>
                  <p><a href="https://www.wgu.edu" target="_blank">Western Governors University</a> &nbsp; | &nbsp; Salt Lake City, UT</p>
@@ -67,7 +62,6 @@
 
             <table>
                 <caption>Technical Skills Overview</caption>
-                <!-- Table Headers -->
                 <thead>
                     <tr>
                             <th>Systems & Infrastructure</th>
@@ -76,7 +70,6 @@
                             <th>Administrative Tools</th>
                     </tr>
                 </thead>
-                <!-- first table row -->
                 <tbody>
                     <tr>
                             <td>Wndows Server 2025</td>
@@ -84,14 +77,12 @@
                             <td>Cisco Packet Tracer</td>
                             <td>Active Directory / GPO</td>
                     </tr>
-                    <!-- second table row -->
                     <tr>
                             <td>Windows 11 Enterprise</td>
                             <td>CompTIA Security+</td>
                             <td>VLAN & DHCP Config</td>
                             <td>Microsoft Entra ID</td>
                     </tr>
-                    <!-- third table row -->
                     <tr>
                             <td>Oracle VirtualBox</td>
                             <td>ITIL v4 Foundation</td>
@@ -120,8 +111,7 @@
             </section>
          <hr>
         
-         <!-- CONTACT INFORMATION -->
-        <section id="contactInfo">
+         <section id="contactInfo">
             <p>Kenny <br> Newark, NJ 08010 <br> kenny@wgu.edu</p>
         </section>
     </main>
