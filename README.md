@@ -3,8 +3,7 @@
 <h2>Information Technology Specialist Projects:</h2>
 <ul>
   <li>
-
-    <a href="[AD](https://github.com/kllewisIT/AD)" target="_blank" rel="noopener noreferrer">AD</a>
+    <a href="https://github.com/kllewisIT/AD" target="_blank" rel="noopener noreferrer">AD</a>
   </li>
 </ul>
 <h2>Cloud Identity & Endpoint Management (Microsoft Entra ID and Intune)</h2>
