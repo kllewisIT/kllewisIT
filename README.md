@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1>Kenny's Resume</h1>
+
+<h1>Welcome, I'm Kenneth and this is what I have been working on to gain knowledge and experience in various areas in IT.</h1>
 <h3>OBJECTIVE</h3>
 <h3>WORK EXPERIENCE</h3>
 <h4>Computer Technician | BCPS, NJ</h4>
