@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-    <td><a href="URL_1"><b>🏠 Home Profile</b></a></td>
+    <td><a href="https://github.com/kllewisIT/kllewisIT" target="_blank" rel="noopener noreferrer"><b>🏠 Home Profile</b></a></td>
     <td><a href="https://github.com/kllewisIT/AD" target="_blank" rel="noopener noreferrer"><b>🖥️ Active Directory</b></a></td>
     <td><a href="URL_3"><b>🌐 Web Server</b></a></td>
     <td><a href="URL_4"><b>🎓 WGU Projects</b></a></td>
